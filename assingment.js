@@ -28,5 +28,5 @@ function tinyFriend(names){
     }
     return smallest;
 }
-var tinyFriendName = tinyFriend(["Chhowa", "Deb", "Kontho", "Rana", "Ko"]);
+var tinyFriendName = tinyFriend(["Chhowa", "Deb", "Kontho", "Rana"]);
 console.log(tinyFriendName);
